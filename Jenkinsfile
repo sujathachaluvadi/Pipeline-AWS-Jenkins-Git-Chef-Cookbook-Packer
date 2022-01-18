@@ -1,4 +1,4 @@
-node('master') {
+node('any') {
 
    stage ('Spring Checkout')
    {
